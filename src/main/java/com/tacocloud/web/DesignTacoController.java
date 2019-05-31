@@ -3,8 +3,6 @@ package com.tacocloud.web;
 import com.tacocloud.Ingredient;
 import com.tacocloud.Order;
 import com.tacocloud.Taco;
-import com.tacocloud.data.IngredientRepository;
-import com.tacocloud.data.TacoRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
